@@ -16,7 +16,7 @@ It's also good to compare the performace of those two models T5 and Text2Text th
 
 ### Running 
 1. Download [Sense2Vec Pretrained Vectors](https://github.com/explosion/sense2vec/releases/download/v1.0.0/s2v_reddit_2015_md.tar.gz).
-2. Extract the content in the root folder. Will be created a folder named s2v_old.
+2. Extract the content in the root folder.Folder named s2v_old will be found.
 
 ```
 pip install -r requirements.txt
